@@ -1937,7 +1937,7 @@
 
 	.image {
 		border-radius: 3px;
-		border: 0;
+		border: solid 1px;
 		display: inline-block;
 		position: relative;
 	}
@@ -1945,6 +1945,7 @@
 		.image img {
 			border-radius: 3px;
 			display: block;
+
 		}
 
 		.image.left {
