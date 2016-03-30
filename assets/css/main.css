@@ -3702,7 +3702,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: -webkit-linear-gradient: rbg(top left, 100 , 100 ,100) rbg(bottom right , 125, 125,125) ;
 		text-align: center;
 	}
 
